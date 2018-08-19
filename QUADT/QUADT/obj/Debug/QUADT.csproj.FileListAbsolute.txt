@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\QUADT\QUADT\bin\Debug\QUADT.exe.config
+C:\Users\hanif\source\repos\QUADT\QUADT\bin\Debug\QUADT.exe.manifest
+C:\Users\hanif\source\repos\QUADT\QUADT\bin\Debug\QUADT.application
+C:\Users\hanif\source\repos\QUADT\QUADT\bin\Debug\QUADT.exe
+C:\Users\hanif\source\repos\QUADT\QUADT\bin\Debug\QUADT.pdb
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.Form1.resources
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.Properties.Resources.resources
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.exe.manifest
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.application
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.exe
+C:\Users\hanif\source\repos\QUADT\QUADT\obj\Debug\QUADT.pdb

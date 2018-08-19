@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\COLLN\COLLN\bin\Debug\COLLN.exe.config
+C:\Users\hanif\source\repos\COLLN\COLLN\bin\Debug\COLLN.exe.manifest
+C:\Users\hanif\source\repos\COLLN\COLLN\bin\Debug\COLLN.application
+C:\Users\hanif\source\repos\COLLN\COLLN\bin\Debug\COLLN.exe
+C:\Users\hanif\source\repos\COLLN\COLLN\bin\Debug\COLLN.pdb
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.Form1.resources
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.Properties.Resources.resources
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.exe.manifest
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.application
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.exe
+C:\Users\hanif\source\repos\COLLN\COLLN\obj\Debug\COLLN.pdb

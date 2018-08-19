@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\PROJ\PROJ\bin\Debug\PROJ.exe.config
+C:\Users\hanif\source\repos\PROJ\PROJ\bin\Debug\PROJ.exe.manifest
+C:\Users\hanif\source\repos\PROJ\PROJ\bin\Debug\PROJ.application
+C:\Users\hanif\source\repos\PROJ\PROJ\bin\Debug\PROJ.exe
+C:\Users\hanif\source\repos\PROJ\PROJ\bin\Debug\PROJ.pdb
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.Form1.resources
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.Properties.Resources.resources
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.exe.manifest
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.application
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.exe
+C:\Users\hanif\source\repos\PROJ\PROJ\obj\Debug\PROJ.pdb

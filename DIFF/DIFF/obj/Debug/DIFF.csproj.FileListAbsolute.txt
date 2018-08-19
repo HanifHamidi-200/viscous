@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\DIFF\DIFF\bin\Debug\DIFF.exe.config
+C:\Users\hanif\source\repos\DIFF\DIFF\bin\Debug\DIFF.exe.manifest
+C:\Users\hanif\source\repos\DIFF\DIFF\bin\Debug\DIFF.application
+C:\Users\hanif\source\repos\DIFF\DIFF\bin\Debug\DIFF.exe
+C:\Users\hanif\source\repos\DIFF\DIFF\bin\Debug\DIFF.pdb
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.Form1.resources
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.Properties.Resources.resources
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.exe.manifest
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.application
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.exe
+C:\Users\hanif\source\repos\DIFF\DIFF\obj\Debug\DIFF.pdb

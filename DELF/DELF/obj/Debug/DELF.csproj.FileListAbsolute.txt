@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\DELF\DELF\bin\Debug\DELF.exe.config
+C:\Users\hanif\source\repos\DELF\DELF\bin\Debug\DELF.exe.manifest
+C:\Users\hanif\source\repos\DELF\DELF\bin\Debug\DELF.application
+C:\Users\hanif\source\repos\DELF\DELF\bin\Debug\DELF.exe
+C:\Users\hanif\source\repos\DELF\DELF\bin\Debug\DELF.pdb
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.Form1.resources
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.Properties.Resources.resources
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.exe.manifest
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.application
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.exe
+C:\Users\hanif\source\repos\DELF\DELF\obj\Debug\DELF.pdb

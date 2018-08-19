@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\BLOCK\BLOCK\bin\Debug\BLOCK.exe.config
+C:\Users\hanif\source\repos\BLOCK\BLOCK\bin\Debug\BLOCK.exe.manifest
+C:\Users\hanif\source\repos\BLOCK\BLOCK\bin\Debug\BLOCK.application
+C:\Users\hanif\source\repos\BLOCK\BLOCK\bin\Debug\BLOCK.exe
+C:\Users\hanif\source\repos\BLOCK\BLOCK\bin\Debug\BLOCK.pdb
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.Form1.resources
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.Properties.Resources.resources
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.exe.manifest
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.application
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.exe
+C:\Users\hanif\source\repos\BLOCK\BLOCK\obj\Debug\BLOCK.pdb

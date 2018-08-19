@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SHOOT.exe" version="1.0.0.0" publicKeyToken="a831c29d2b70894f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="F spark.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SHOOT" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SHOOT.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 매니페스트 옵션
+          Windows 사용자 계정 컨트롤 수준을 변경하려면 
+          requestedExecutionLevel 노드를 다음 중 하나로 바꾸세요.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         이전 버전과의 호환성을 위해 파일 및 레지스트리 가상화를 사용하려면 
+         requestedExecutionLevel 노드를 삭제하세요.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SHOOT.exe" size="20448">
+      <assemblyIdentity name="SHOOT" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>TwPCNUrREDghc4CN/bGw84wUeIpz+g185uPL4NI36fo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="F spark.ico" size="12206">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+EPQz208gwlcrv8qk3lmfrGWIcTsNUq2x0gU1S0rIeE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SHOOT.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K87L076\hanif" issuerKeyHash="7aa4c597475382df25c771562ce832ffbde94ee3" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>u6a6rMlcLs5wiB194uNBzJVVh9AjieBsIOYyBny+JkM=</DigestValue></Reference></SignedInfo><SignatureValue>XXYfek1aJPx1AJrZp7+PqQ1Vc/r8dy38C3oaLUA4YcdVnQTnBWjdJLaqVPlxb1CSaL2KwtQARXY8Awas0vIQ9Oh28OaBjAfqI/TS/SnseCygf9vFDWg6uybZvTp0f8i7th8Xl84JVnJW0bPGc05PwbVZO1zGNnOubf1RwIAGUow=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>22xPPNzXp54N3T7oUt0qgT69ifllDE2JJe/D42UnOnlXV4+LuihlqEeeogXSvWP9hqd/W9dgz4vpVq0wuoILXwgFVXeqC01MwnltGs4QPGUpV0tsGV/RUyeCnckVaNbaqyYHuHqUWmMCEkEh+KtzJy/Ds8W6q+2ithuvcMVNqZE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4326be7c0632e6206ce08923d0875595cc41e3e27d1d8870ce2e5cc9acbaa6bb" Description="" Url=""><as:assemblyIdentity name="SHOOT.exe" version="1.0.0.0" publicKeyToken="a831c29d2b70894f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K87L076\hanif</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>0GFsCbEKFrhHrPE2JS8k2PTM3vhd/tMw4KBYUJSmbZ4=</DigestValue></Reference></SignedInfo><SignatureValue>k7iuLZFc/GpIDqhNaaFiA87RXcD6Z0JH4yvQlqsMRubA3CpfwI6w+9vjBDeAW/SPYyfY7wdPRFgDP6AIEKJ6RmkvngbiRAHu5zcu+NIbShjXNV9bQLsl7vBEIY8hooNYOUfp64iVkin2WS5w60wtPj0Q7r7AW6vA92aQhH+Dlsg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>22xPPNzXp54N3T7oUt0qgT69ifllDE2JJe/D42UnOnlXV4+LuihlqEeeogXSvWP9hqd/W9dgz4vpVq0wuoILXwgFVXeqC01MwnltGs4QPGUpV0tsGV/RUyeCnckVaNbaqyYHuHqUWmMCEkEh+KtzJy/Ds8W6q+2ithuvcMVNqZE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQPIG9QjkT2pNJZQJaoQ+MXjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwHhcNMTgwODE5MTEwMjI4WhcNMTkwODE5MTcwMjI4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEsAOAA3AEwAMAA3ADYAXABoAGEAbgBpAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANtsTzzc16eeDd0+6FLdKoE+vYn5ZQxNiSXvw+NlJzp5V1ePi7ooZahHnqIF0r1j/Yanf1vXYM+L6VatMLqCC18IBVV3qgtNTMJ5bRrOEDxlKVdLbBlf0VMngp3JFWjW2qsmB7h6lFpjAhJBIfircycvw7PFuqvtorYbr3DFTamRAgMBAAEwDQYJKoZIhvcNAQELBQADgYEA1epcd0H2ykLBy0PyN4TR8Vyww2+pu38xFfdb1M3kmcHQzhICB6Z3Plm2BAqDW1440crfA/aC4GN5q5a35sh4cRxb0f5GKIkHB33DgbI2maO6KpOoih7k9Lr5E9pIe7r0ytqZy8hA+q4K8DOwx1TtiNzMQosNqQS32p3AVhyF5XM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

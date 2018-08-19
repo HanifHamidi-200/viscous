@@ -1,0 +1,13 @@
+C:\Users\hanif\source\repos\UPPER\UPPER\bin\Debug\UPPER.exe.config
+C:\Users\hanif\source\repos\UPPER\UPPER\bin\Debug\UPPER.exe.manifest
+C:\Users\hanif\source\repos\UPPER\UPPER\bin\Debug\UPPER.application
+C:\Users\hanif\source\repos\UPPER\UPPER\bin\Debug\UPPER.exe
+C:\Users\hanif\source\repos\UPPER\UPPER\bin\Debug\UPPER.pdb
+C:\Users\hanif\source\repos\UPPER\UPPER\obj\Debug\UPPER.Form1.resources
+C:\Users\hanif\source\repos\UPPER\UPPER\obj\Debug\UPPER.Properties.Resources.resources
+C:\Users\hanif\source\repos\UPPER\UPPER\obj\Debug\UPPER.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\UPPER\UPPER\obj\Debug\UPPER.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\UPPER\UPPER\obj\Debug\UPPER.exe.manifest
+C:\Users\hanif\source\repos\UPPER\UPPER\obj\Debug\UPPER.application
+C:\Users\hanif\source\repos\UPPER\UPPER\obj\Debug\UPPER.exe
+C:\Users\hanif\source\repos\UPPER\UPPER\obj\Debug\UPPER.pdb

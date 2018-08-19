@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\ALEF\ALEF\bin\Debug\ALEF.exe.config
+C:\Users\hanif\source\repos\ALEF\ALEF\bin\Debug\ALEF.exe.manifest
+C:\Users\hanif\source\repos\ALEF\ALEF\bin\Debug\ALEF.application
+C:\Users\hanif\source\repos\ALEF\ALEF\bin\Debug\ALEF.exe
+C:\Users\hanif\source\repos\ALEF\ALEF\bin\Debug\ALEF.pdb
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.Form1.resources
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.Properties.Resources.resources
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.exe.manifest
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.application
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.exe
+C:\Users\hanif\source\repos\ALEF\ALEF\obj\Debug\ALEF.pdb

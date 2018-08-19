@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\MAJOR\MAJOR\bin\Debug\MAJOR.exe.config
+C:\Users\hanif\source\repos\MAJOR\MAJOR\bin\Debug\MAJOR.exe.manifest
+C:\Users\hanif\source\repos\MAJOR\MAJOR\bin\Debug\MAJOR.application
+C:\Users\hanif\source\repos\MAJOR\MAJOR\bin\Debug\MAJOR.exe
+C:\Users\hanif\source\repos\MAJOR\MAJOR\bin\Debug\MAJOR.pdb
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.Form1.resources
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.Properties.Resources.resources
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.exe.manifest
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.application
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.exe
+C:\Users\hanif\source\repos\MAJOR\MAJOR\obj\Debug\MAJOR.pdb

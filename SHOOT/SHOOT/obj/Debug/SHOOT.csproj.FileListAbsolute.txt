@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\SHOOT\SHOOT\bin\Debug\SHOOT.exe.config
+C:\Users\hanif\source\repos\SHOOT\SHOOT\bin\Debug\SHOOT.exe.manifest
+C:\Users\hanif\source\repos\SHOOT\SHOOT\bin\Debug\SHOOT.application
+C:\Users\hanif\source\repos\SHOOT\SHOOT\bin\Debug\SHOOT.exe
+C:\Users\hanif\source\repos\SHOOT\SHOOT\bin\Debug\SHOOT.pdb
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.Form1.resources
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.Properties.Resources.resources
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.exe.manifest
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.application
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.exe
+C:\Users\hanif\source\repos\SHOOT\SHOOT\obj\Debug\SHOOT.pdb

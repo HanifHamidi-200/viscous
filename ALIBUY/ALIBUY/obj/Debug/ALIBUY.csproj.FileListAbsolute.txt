@@ -1,0 +1,14 @@
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\bin\Debug\ALIBUY.exe.config
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\bin\Debug\ALIBUY.exe.manifest
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\bin\Debug\ALIBUY.application
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\bin\Debug\ALIBUY.exe
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\bin\Debug\ALIBUY.pdb
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.Form1.resources
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.Properties.Resources.resources
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.exe.manifest
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.application
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.exe
+C:\Users\hanif\source\repos\ALIBUY\ALIBUY\obj\Debug\ALIBUY.pdb
